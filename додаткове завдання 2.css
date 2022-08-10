@@ -1,0 +1,77 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+h1:hover {
+color: blue;
+font-size: 40px;
+}
+
+ol {
+    color: red;
+    width: 40%;
+}
+ol i {
+    color: blue;
+    font-weight: bold;
+}
+
+ol b{
+    font-size: 20px;
+}
+
+h2{
+    color: green;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 25px;
+    word-spacing: 5px;
+    width: 500px;
+    
+}
+span {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+i {
+    color: blue;
+}
+
+.second-p {
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 25px;
+    word-spacing: 0px;
+    width: 500px; 
+}
+
+.PHP-CMS {
+    color: red;
+    font-style: italic;
+}
+
+ul{
+    width: 40%;
+    font-style: italic;
+    color: rgb(168, 84, 84);
+}
+
+h2:active{
+    color:aqua;
+    font-family: cursive;
+}
+
+ol li:hover{
+    color: white;
+    background-color: green;
+    width: 30%;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 25px;
+}
